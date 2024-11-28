@@ -1,2 +1,8 @@
 dataset
-processes_dataset
+processed_dataset/
+processed_dataset/test/
+.DS_Store
+models
+venv/
+venv/bin/python3
+dataset.zip
