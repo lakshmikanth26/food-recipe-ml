@@ -1,7 +1,10 @@
 {
-    "Pizza": "Pizza recipe: Mix dough, add toppings, bake at 200°C.",
-    "Apple pie": "Burger recipe: Grill patty, assemble with bun and toppings.",
-    "Bread pudding": "Sushi recipe: Roll rice and fish in seaweed.",
-    "Chicken curry": "Fried rice recipe: Cook rice, stir-fry with vegetables and soy sauce.",
-    "Chicken wings": "Sandwich recipe: Layer bread with filling and serve."
+    "Burger": "Mix ground beef with spices, form patties, grill until cooked, and serve in a bun with toppings.",
+    "Apple pie": "Prepare pie crust, fill with sliced apples mixed with sugar and cinnamon, and bake at 180°C for 45 minutes.",
+    "Chicken wings": "Marinate chicken wings with spices, bake or fry until crispy, and coat with your favorite sauce.",
+    "Bread pudding": "Mix bread pieces with milk, eggs, sugar, and vanilla; bake at 175°C for 40 minutes.",
+    "Pizza": "Prepare dough, spread tomato sauce, add cheese and toppings, and bake at 200°C for 15 minutes.",
+    "Ice cream": "Mix cream, milk, sugar, and vanilla extract; churn in an ice cream maker until set.",
+    "Chicken Biryani": "Layer marinated chicken with par-cooked rice, add saffron and spices, cook on low heat.",
+    "Pani Puri": "Prepare crispy puris, fill with spiced potatoes and chickpeas, and serve with tangy mint water."
 }
